@@ -17,7 +17,7 @@ android modder
 </details>
 
 ## languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=10&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=12&theme=dark)
 
 ## currently working on
 > + [c++ discord bot](https://github.com/thatOneArchUser/cpp-discord-bot) <sub><sub><sub>generic bot name</sub></sub></sub>
