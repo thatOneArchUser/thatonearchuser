@@ -19,7 +19,7 @@ android modder
 ## stats
 overview                   |languages
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=thatOneArchUser&show_icons=true&hide_border=true&line_height=20&title_color=1793d1&icon_color=1793d1&show_owner=true&theme=dark&count_private=true)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=6&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=thatOneArchUser&show_icons=true&hide_border=true&line_height=20&title_color=1793d1&icon_color=00537d&show_owner=true&theme=dark&count_private=true)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=6&theme=dark)
 
 ## currently working on
 > + [c++ discord bot](https://github.com/thatOneArchUser/cpp-discord-bot) <sub><sub><sub>generic bot name</sub></sub></sub>
