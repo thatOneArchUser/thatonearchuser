@@ -8,7 +8,7 @@ android modder
 
 <details>
   <summary>age (real)</summary>
-  $$\int_1^{e^{10}}\frac{\text dx}x+\frac{e^{i\tau}}{(\csc^2x-\cot^2x)1\uparrow^{(69)}1}\csc x\sqrt{1-\cos^2x}+\lim\limits_{b\to\infty}\int_0^b t^2e^{-t}\,dt+\lim\limits_{a\to\infty} a\ln\Big[1+\frac{2}{a}\Big]$$
+  $$\int_1^{e^{\lim_{t\to\infty}\sqrt[\log(t)]t}}\frac{\text dx}x+\frac{e^{i\tau}}{(\csc^2x-\cot^2x)1\uparrow^{(69)}1}\csc x\sqrt{1-\cos^2x}+\lim\limits_{b\to\infty}\int_0^b t^2e^{-t}\,dt+\lim\limits_{a\to\infty} a\ln\Big[1+\frac{2}{a}\Big]$$
 </details>
 
 <details>
