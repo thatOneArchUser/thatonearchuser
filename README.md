@@ -26,4 +26,4 @@ android modder
 > 
 > + [discord.py bot generator](https://github.com/thatOneArchUser/discord-py-generator)
 >
-> + [aliucord plugins](https://github.com/thatOneArchUser/AliucordPlugins)
+> + [theroid os](https://github.com/thatOneArchUser/theroid-os) <sub><sub><sub><sub>yes, hydungeon is more painful (i suck at python)</sub></sub></sub></sub>
