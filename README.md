@@ -16,6 +16,11 @@ android modder
   i use arch btw
 </details>
 
+<details>
+  <summary>how did i learn all that stuff?</summary>
+  pls dont ask me, i have no fucking idea
+</details>
+
 ## languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=12&theme=dark)
 
