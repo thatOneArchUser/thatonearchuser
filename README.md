@@ -12,7 +12,7 @@ yes, i am an arch user but i dont like flexing it, i think its annoying
 <details>
   <summary>age (real)</summary>
   $$\int_1^{e^{\lim_{t\to\infty}\sqrt[\log(t)]t}}\frac{\text dx}x+\frac{e^{i\tau}}{(\csc^2x-\cot^2x)1\uparrow^{(69)}1}\csc x\sqrt{1-\cos^2x}+\lim\limits_{b\to\infty}\int_0^b t^2e^{-t}\,dt+\lim\limits_{a\to\infty} a\ln\Big[1+\frac{2}{a}\Big]$$
-  <sub><sub><sub><sub><a href=https://cdn.discordapp.com/attachments/997101921301172284/1013761612546580571/unknown.png>cant solve?</a></sub></sub></sub></sub>
+  <sub><sub><sub><sub><a href=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1af7b9bc-ab26-47dc-a812-59ce1f74e6f7/df4bcfd-33bcf25a-fe68-4b0e-b8c0-1ddca009f18f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhZjdiOWJjLWFiMjYtNDdkYy1hODEyLTU5Y2UxZjc0ZTZmN1wvZGY0YmNmZC0zM2JjZjI1YS1mZTY4LTRiMGUtYjhjMC0xZGRjYTAwOWYxOGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R35RaguMbjiu1VCyazZrjOgWaKeM_zeIAgzeLiCF3IM>cant solve?</a></sub></sub></sub></sub>
 </details>
 
 <details>
