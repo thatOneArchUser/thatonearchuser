@@ -12,6 +12,7 @@ yes, i am an arch user but i dont like flexing it, i think its annoying
 <details>
   <summary>age (real)</summary>
   $$\int_1^{e^{\lim_{t\to\infty}\sqrt[\log(t)]t}}\frac{\text dx}x+\frac{e^{i\tau}}{(\csc^2x-\cot^2x)1\uparrow^{(69)}1}\csc x\sqrt{1-\cos^2x}+\lim\limits_{b\to\infty}\int_0^b t^2e^{-t}\,dt+\lim\limits_{a\to\infty} a\ln\Big[1+\frac{2}{a}\Big]$$
+  <sub><sub><sub><sub><a href=https://cdn.discordapp.com/attachments/997101921301172284/1013761612546580571/unknown.png>cant solve?</a></sub></sub></sub></sub>
 </details>
 
 <details>
