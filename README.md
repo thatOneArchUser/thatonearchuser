@@ -24,7 +24,7 @@ yes, i am an arch user but i dont like flexing it, i think its annoying
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=12&theme=dark)
 
 ## currently working on
-> + [c++ discord bot](https://github.com/thatOneArchUser/cpp-discord-bot) <sub><sub><sub>generic bot name</sub></sub></sub>
+> + [c++ discord bot](https://github.com/thatOneArchUser/cpp-discord-bot) <sub><sub><sub>cant think of a name</sub></sub></sub>
 >
 > + [hydungeon](https://github.com/thatOneArchUser/hydungeon) ![bot](https://img.shields.io/badge/-painful%20af-f15b92?style=flat)
 > 
