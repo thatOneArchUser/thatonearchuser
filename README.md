@@ -3,7 +3,8 @@
 
 
 he/him
-<sub> i type text on my text editor and it shows up with different colors </sub>
+<br>
+<sub><sub> i type text on my text editor and it shows up with different colors </sub></sub>
 
 <details>
   <summary>age (real)</summary>
