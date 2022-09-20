@@ -3,11 +3,7 @@
 
 
 he/him
-> discord bot and plugin developer\
-malware developer\
-android modder
-
-yes, i am an arch user but i dont like flexing it, i think its annoying
+<sub> i type text on my text editor and it shows up with different colors </sub>
 
 <details>
   <summary>age (real)</summary>
