@@ -4,7 +4,7 @@
 
 he/him
 <br>
-<sub><sub> i type text on my text editor and it shows up with different colors </sub></sub>
+<sub><sub> i type text on my text editor and it shows up with different colors <sub><sub><sub>aka, i code</sub></sub></sub></sub></sub>
 
 <details>
   <summary>age (real)</summary>
