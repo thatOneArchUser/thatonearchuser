@@ -3,9 +3,6 @@
 
 
 he/him
-<br>
-<sub><sub> i type text on my text editor and it shows up with different colors </sub></sub>
-
 <details>
   <summary>age (real)</summary>
   $$\lim\limits_{b\to\infty}\int_1^{e^{\sqrt[\log(b)]b}}\frac1x\,dx+\frac{e^{i\tau}}{(\csc^2x-\cot^2x)1\uparrow^{(69)}1}\csc x\sqrt{1-\cos^2x}+\int_0^b t^2e^{-t}\,dt+b\ln\Big[1+\frac{2}{b}\Big]$$
