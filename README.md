@@ -15,4 +15,4 @@ he/him
 </details>
 
 ## languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=12&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatOneArchUser&hide_border=true&title_color=1793d1&langs_count=5&theme=dark)
