@@ -13,6 +13,10 @@
 <details>
   <summary>how did i learn all that stuff?</summary>
   pls dont ask me, i have no fucking idea
+  
+  but
+  
+  its not like i randomly woke up and i knew all that stuff
 </details>
 
 ## languages
