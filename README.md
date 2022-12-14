@@ -21,5 +21,5 @@
 
 <details>
   <summary>dont</summary>
-  my integral is <a href=https://github.com/archisha69>x²/2 + c</a>
+  my integral is <a href=https://github.com/archisha69>x²/2 + c</a> 💙
 </details>
