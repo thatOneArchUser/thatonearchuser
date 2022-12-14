@@ -21,7 +21,5 @@
 
 <details>
   <summary>dont</summary>
-  my integral is <a href=https://github.com/archisha69>this person</a>
-  
-  <sub><sub><sub>dont fucking say it</sub></sub></sub>
+  my integral is <a href=https://github.com/archisha69>x²/2 + c</a>
 </details>
